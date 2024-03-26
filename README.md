@@ -1,5 +1,9 @@
 # Pseudo-label Aware Unsupervised Semantic Segmentation
 
+
+## The code is not complete here, and will be revealed once paper gets accepted. If you are inside IITG, use this: arijit@3014f6bae8f1:~/Akshith/Project/mywork/Unsupervised-Semantic-Segmentation , ssh: 172.16.136.120
+
+
 **Author:** Arthi Sai Akshith
 **Affiliation:** IIT Guwahati
 
